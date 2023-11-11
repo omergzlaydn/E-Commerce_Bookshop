@@ -15,4 +15,4 @@ Yıldız derecelendirmeleri ile müşteri incelemeleri bölümü.
 İletişim bilgileri ve altbilgideki bağlantılar.
 
 
-![](https://github.com/omergzlaydn/Netflix-Clone/blob/main/img/netflix.gif)
+![](https://github.com/omergzlaydn/E-Commerce_Bookshop/blob/main/images/e-co.gif)
